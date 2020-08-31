@@ -1,3 +1,5 @@
+﻿comandos em linux 
+
 // Criar uma pasta:
 mkdir nome_da_pasta
 
